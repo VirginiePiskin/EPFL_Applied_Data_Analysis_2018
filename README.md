@@ -18,3 +18,4 @@ Reza: Task 1 - Boosting the economy by incentivizing self-employment
 Virginie & Arnaud: Task 2 - All you need is love… And a dog!
 
 The Task 2 on which I worked was a really good classification exercise in which I understood how to use a classifier in a specific context using different perfomance metrics.
+
